@@ -1,10 +1,15 @@
 let numero = Math.round(Math.random() * 100)
 
-console.log('O número selecionado foi: ' + numero)
 
-if(numero%2==0) {
-    console.log("O número selecionado é par");
+function validarParImpar(valor){
+    console.log('O número selecionado foi: ' + valor)
     
-}else{
-    console.log("O número selecionado é impar");
+    if(valor%2==0) {
+        console.log("O número selecionado é par");
+        
+    }else{
+        console.log("O número selecionado é impar");
+    }
 }
+
+validarParImpar(numero)
