@@ -9,3 +9,10 @@
 
 <p>Crie uma função que receba o valor de uma hora qualquer, e exibe no console uma mensagem de “bom dia”, “boa tarde” ou “boa noite”, de acordo com a hora passada.</p>
 
+
+
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
+O editor [VSCode](https://code.visualstudio.com/) e o plugin do [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). 

@@ -11,3 +11,9 @@
 
 Atribua o valor a variável usando o window.prompt();</p>
 
+
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
+O editor [VSCode](https://code.visualstudio.com/) e o plugin do [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). 

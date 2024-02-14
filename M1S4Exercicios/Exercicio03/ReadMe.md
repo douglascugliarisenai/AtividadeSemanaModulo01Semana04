@@ -10,3 +10,9 @@
 <p>Combine duas strings usando o operador de concatenação e exiba o resultado no console.
 Utilize o template string ou a concatenação simples.</p>
 
+
+### Pré-requisitos para executar
+
+Antes de começar, você vai precisar ter instalado em sua máquina aa seguinte ferramenta:
+[Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/
